@@ -1,3 +1,6 @@
 [submodule "libjade"]
 	path = libjade
 	url = https://github.com/formosa-crypto/libjade.git
+[submodule "libjade-dilithium-arm"]
+	path = libjade-dilithium-arm
+	url = https://gitlab.com/formosa-dilithium/dilithium-arm.git
