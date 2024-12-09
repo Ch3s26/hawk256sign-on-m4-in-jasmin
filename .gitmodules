@@ -1,0 +1,3 @@
+[submodule "libjade"]
+	path = libjade
+	url = https://github.com/formosa-crypto/libjade.git
